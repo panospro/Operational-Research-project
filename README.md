@@ -1,4 +1,4 @@
-# Operational-Research-project
+# Operational-Research-project in python
 Two optimization problems in which we are looking for the minimum time
 
 
