@@ -1,5 +1,5 @@
-# Operational-Research-project in python
-Two optimization problems in which we are looking for the minimum time
+# Operational-Research-project
+Two optimization problems in which we are looking for the minimum time using gurobi optimization in python
 
 
 # The first problem:
