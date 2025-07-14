@@ -69,14 +69,4 @@ Determine the optimal coloring schedule that **minimizes the total production ti
 
 ---
 
-## 🚀 How to Run
-
-Make sure you have Python and Gurobi installed.
-
-```bash
-pip install gurobipy
-python problem1_factory_paint_scheduling.py
-python problem2_wallpaper_coloring_schedule.py
-```
-
 > This project explores **theoretical and algorithmic aspects of combinatorial optimization**, applying both **analytical modeling** and **computational tools** to solve real-world scheduling and sequencing problems efficiently using modern solvers like **Gurobi**.
